@@ -1,0 +1,7 @@
+**/*.tgz
+.idea/
+*.iml
+.vscode/settings.json
+.vscode/launch.json
+apigateway/apigateway
+protocol/**/*.pb.go
